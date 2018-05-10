@@ -1,3 +1,9 @@
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![GitHub version](https://badge.fury.io/gh/boennemann%2Fbadges.svg)](https://github.com/donsingh/editable/releases)
+[![Only 32 Kb](https://badge-size.herokuapp.com/Naereen/StrapDown.js/master/strapdown.min.js)](https://github.com/donsingh/editable/blob/master/editable.js)
+
+
 # Editable
 
 A Javascript plugin for allowing users to edit an element's text in real time.
