@@ -6,27 +6,29 @@ A Javascript plugin for allowing users to edit an element's text in real time.
 ## Examples
 
 ### Basic Example
+
+A simple `<p>` tag that is editable:
+
 ![Basic Example](https://github.com/donsingh/editable/blob/master/images/basic.gif)
 
-A simple `<p>` tag that is editable
+Clicking anywhere outside the element would undo all edits:
 
 ![Undoing Example](https://github.com/donsingh/editable/blob/master/images/undo.gif)
 
-Clicking anywhere outside the element would undo all edits
+Textarea is also supported:
 
 ![Textarea Example](https://github.com/donsingh/editable/blob/master/images/textarea.gif)
 
-Textarea is also supported!
 
-## Installation
-  
-Simply add `editable.js` in your html page
 
-## Usage
+## Installation & Usage
 
-  
+Ofcourse start off by downloading the editable.js file and appending it to your page
+```
+<script src='editable.js'></script>
+```
 
-Just add the class `editable` on elements with text that you want to modify
+Then just add the class `editable` on elements with text that you want to modify
 
   
 
