@@ -6,7 +6,7 @@ A Javascript plugin for allowing users to edit an element's text in real time.
 ## Examples
 
 ### Basic Example
-![Basic Example](test)
+![Basic Example](https://github.com/donsingh/editable/blob/master/images/basic.gif)
 A simple `<p>` tag that is editable
 
 ![Undoing Example](eet)
