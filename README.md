@@ -7,12 +7,15 @@ A Javascript plugin for allowing users to edit an element's text in real time.
 
 ### Basic Example
 ![Basic Example](https://github.com/donsingh/editable/blob/master/images/basic.gif)
+
 A simple `<p>` tag that is editable
 
-![Undoing Example](eet)
+![Undoing Example](https://github.com/donsingh/editable/blob/master/images/undo.gif)
+
 Clicking anywhere outside the element would undo all edits
 
-![Textarea Example](test)
+![Textarea Example](https://github.com/donsingh/editable/blob/master/images/textarea.gif)
+
 Textarea is also supported!
 
 ## Installation
